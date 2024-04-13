@@ -16,7 +16,7 @@ The dataset for this project was retrieved from Kaggle.com. It consists of infor
 
 ## Documentation
 
-Python 3 was employed in the data analyses to assess potential correlations between various data points and both breast cancer occurrence and patient survival post-cancer detection.
+"The dataset for this project was obtained from Kaggle.com via the following link: https://www.kaggle.com/datasets/reihanenamdari/breast-cancer. In this project, our aim was to analyze the data and explore the correlation between breast cancer occurrence, patient survival, and other key variables provided in the dataset. Python 3 was utilized for the data analysis to investigate potential correlations between various data points and both the occurrence of breast cancer and patient survival after cancer detection. Additionally, t-tests were applied to evaluate the significance of differences in the results."
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
